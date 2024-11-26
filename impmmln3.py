@@ -29,7 +29,7 @@ if menu == "Home":
     Silakan jelajahi aplikasi ini untuk mendapatkan informasi lebih lanjut atau melakukan prediksi harga mobil.
     """)
     # Menampilkan gambar
-    st.image("D:/hariini/Screenshot 2024-11-26 094810.png", caption="Aplikasi Prediksi Harga Mobil", use_column_width=True)
+    #st.image("D:/hariini/Screenshot 2024-11-26 094810.png", caption="Aplikasi Prediksi Harga Mobil", use_column_width=True)
 
 # Halaman Dataset
 elif menu == "Dataset":
